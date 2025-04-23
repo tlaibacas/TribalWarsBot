@@ -255,19 +255,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"TribalWarsBot@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "TribalWarsBot@workspace:."
-  dependencies:
-    "@types/node": "npm:^22.14.1"
-    dotenv: "npm:^16.5.0"
-    eslint: "npm:^9.25.1"
-    nodemon: "npm:^3.1.10"
-    puppeteer: "npm:^24.7.1"
-    typescript: "npm:^5.8.3"
-  languageName: unknown
-  linkType: soft
-
 "abbrev@npm:^3.0.0":
   version: 3.0.1
   resolution: "abbrev@npm:3.0.1"
@@ -2163,6 +2150,19 @@ __metadata:
   checksum: 10c0/d2e4d269a42c846a22a29065b9af0b263de58effc85a1764bb7a2e8fc4b47700e9e2fcbd7eb1f5bffbb7c73d860f93600cef282b93ddac8f0b62321cb498b36e
   languageName: node
   linkType: hard
+
+"tribalwarsbot@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "tribalwarsbot@workspace:."
+  dependencies:
+    "@types/node": "npm:^22.14.1"
+    dotenv: "npm:^16.5.0"
+    eslint: "npm:^9.25.1"
+    nodemon: "npm:^3.1.10"
+    puppeteer: "npm:^24.7.1"
+    typescript: "npm:^5.8.3"
+  languageName: unknown
+  linkType: soft
 
 "tslib@npm:^2.0.1":
   version: 2.8.1
